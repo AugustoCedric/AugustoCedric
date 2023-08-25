@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/augustocedric/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/augusto-cedric-python)
 
-![CEDRIC GitHub stats](https://github-readme-stats.vercel.app/api?username=augustocedric&show_icons=true&theme=dracula)
+![CEDRIC GitHub stats](https://github-readme-stats.vercel.app/api?username=augustocedric&show_icons=true&theme=transparente)
 
 ## Tecnologias que eu uso no meu dia
 
