@@ -1,6 +1,9 @@
 
 ### Olá! Eu sou o Augusto Cedric ✋
 
+📧 cedric.pmi.rmp@gmail.com
+
+
 [![Blog](https://img.shields.io/website?label=topexcel.com&style=for-the-badge&url=https://topexcel.com.br/)](https://topexcel.com.br)
 [![Blog](https://img.shields.io/website?label=oasisdigital.com&style=for-the-badge&url=https://oasisdigital.com.br/)](https://oasisdigial.com.br)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@topexcel.oficial9411)
