@@ -1,6 +1,4 @@
-<p align="center"><img width="80%" alt="Olá, sou Cedric" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
+<p align="center"><img width="80%" alt="Olá, sou Cedric" src="./assets/logo__1_-removebg-preview.png" /></a></p>
 
 ### Visão Geral 
 
