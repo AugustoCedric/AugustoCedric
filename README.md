@@ -57,8 +57,14 @@ Meu nome é Augusto Cedric, um entusiasta da tecnologia e atualmente tenho me de
 ### Projetos Destacados
 
 Aqui estão alguns dos projetos em que trabalhei:
-
+ 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustocedric&repo=landing_page_noticias_esportivas&cache_seconds=86400&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustocedric&repo=landing_page_suits&cache_seconds=86400&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustocedric&repo=site_gamesshop&cache_seconds=86400&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustocedric&repo=projeto_agenda_online&cache_seconds=86400&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustocedric&repo=projeto_calculadora_medias&cache_seconds=86400&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustocedric&repo=ebac_games_redux&cache_seconds=86400&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustocedric&repo=calculadora_vueJs&cache_seconds=86400&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 ### O Que Estou Buscando
 
