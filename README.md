@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" alt="Olá, sou Cedric" src="./assets/logo__1_-removebg-preview.png" /></a></p>
+<p align="center"><img width="80%" alt="Olá, sou Cedric" src="./assets/logoW2__1_-removebg-preview.png" /></a></p>
 
 ### Visão Geral 
 
