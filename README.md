@@ -71,7 +71,7 @@ Aqui estão alguns dos projetos em que trabalhei:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustocedric&repo=data_aniversario&cache_seconds=86400&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustocedric&repo=ebac_tech_talks&cache_seconds=86400&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustocedric&repo=sorteador_grunt&cache_seconds=86400&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustocedric&repo=restaurante-tattoria-dnanona&cache_seconds=86400&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustocedric&repo=jquery-galeria-fotos&cache_seconds=86400&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 ### O Que Estou Buscando
 
