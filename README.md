@@ -1,39 +1,80 @@
+<p align="center"><img width="80%" alt="Olá, sou Cedric" src="./assets/gh-readme-header.png" /></a></p>
 
-### Olá! Eu sou o Augusto Cedric ✋
+<br />
 
-📧 cedric.pmi.rmp@gmail.com
+### Visão Geral 
+
+Olá, sou um estudante apaixonado por Full Stack Python, com fortes habilidades em desenvolvimento front-end. Estou buscando oportunidades para contribuir e aprender em projetos desafiadores, onde posso aplicar minha experiência e conhecimento para criar soluções inovadoras.<br>
+
+### Quem Sou Eu
+
+Meu nome é Augusto Cedric, um entusiasta da tecnologia e atualmente tenho me dedicando ao desenvolvimento Full Stack Python, com enfase em front-end. Sou graduado em TI com Pós-graduação em Gerenciamento de Projetos. Profissional com mais de 13 anos em Supply Chain onde obtive grandes resultados financeiros para as empresas utilizando minhas habilidades de Tecnologia e durante minha jornada pratica no meio corporativo aprimorei de forma robusta visão sistemica, comunicação, gestão entre outrasa habilidades que poderá verificar em meu linkeid.
+
+### Minhas Habilidades  ⚡
+ <div style="display: inline_block"><br>
+    <img align="center" alt="auTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="augustocedric-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="augustocedric-Bootstrap" height="40" width="45" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="augustocedric-Sass" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+    <img align="center" alt="augustocedric-jquey" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+    <img align="center" alt="augustocedric-jquey" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg"/> 
+    <img align="center" alt="augustocedric-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="augustocedric-Ts" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="augustocedric-Vue" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+    <img align="center" alt="augustocedric-React" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="augustocedric-Redux" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+    <img align="center" alt="augustocedric-git" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" alt="augustocedric-figma" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  />
+    <img align="center" alt="augustocedric-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
+    <img align="center" alt="augustocedric-less" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/less/less-plain-wordmark.svg" />
+    <img align="center" alt="augustocedric-grunt" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grunt/grunt-original.svg"/>
+    <img align="center" alt="augustocedric-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
+    <img align="center" alt="augustocedric-github" height="64" width="64" src="https://img.icons8.com/sf-black-filled/64/FFFFFF/github.png"/>
+    <img align="center" alt="augustocedric-vscode" height="40" width="40" src="https://img.icons8.com/ios-filled/50/FFFFFF/visual-studio.png"/>
+    <img align="center" alt="augustocedric-npm" height="60" width="60" src="https://img.icons8.com/windows/40/F60303/npm.png"/>
+    <img align="center" alt="augustocedric-babel" height="40" width="40" src="https://img.icons8.com/wired/64/FCC419/babel.png"/>
+    <img align="center" alt="augustocedric-ms-excel" height="40" width="40" src="https://img.icons8.com/ios-filled/50/21A366/ms-excel.png"/>
+ 
+  
+  <!--         
+  <img align="center" alt="Cah-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img align="center" alt="Cah-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
+       <img align="center" alt="Luccas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Luccas-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+       <img alt="mong-db" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" /> -->
+   </div>
+   
+   ### Detalhes
+   
+   <div display="flex"><br>
+       <img height="200px" src="https://github-readme-stats.vercel.app/api?username=augustocedric&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&title_color=A8A8AB&text_color=A8A8AB&bg_color=0d1117" />
+       <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustocedric&layout=compact&langs_count=10&title_color=A8A8AB&text_color=A8A8AB&bg_color=0d1117" />
+   </div>
+
+ 
+<!--### Ferramentas
+- **Git:** Proficiente no controle de versão com Git, com experiência em GitHub para colaboração e gerenciamento de projetos.
+- **Docker:** Familiaridade com contêineres Docker para empacotar, distribuir e executar aplicativos de maneira consistente em diferentes ambientes.
+-->
+### Projetos Destacados
+
+Aqui estão alguns dos projetos em que trabalhei:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustocedric&repo=github-readme-stats&cache_seconds=86400&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Blog](https://img.shields.io/website?label=topexcel.com&style=for-the-badge&url=https://topexcel.com.br/)](https://topexcel.com.br)
-[![Blog](https://img.shields.io/website?label=oasisdigital.com&style=for-the-badge&url=https://oasisdigital.com.br/)](https://oasisdigial.com.br)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@topexcel.oficial9411)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/augustocedric/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/augusto-cedric-python)
+### O Que Estou Buscando
 
-![CEDRIC GitHub stats](https://github-readme-stats.vercel.app/api?username=augustocedric&show_icons=true&theme=transparente)
+Estou procurando oportunidades para me juntar a equipes dinâmicas e inovadoras, onde posso contribuir com minhas habilidades técnicas e também continuar aprendendo e crescendo como profissional. Estou aberto a oportunidades de estágio, projetos colaborativos ou posições de desenvolvimento em tempo integral.
 
-## Tecnologias que eu uso no meu dia
+Se você está procurando por alguém apaixonado por tecnologia, com habilidades sólidas em Full Stack Python e uma mentalidade de aprendizado contínuo, entre em contato!
 
-<div style="display: inline_block"><br/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-<img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img align="center" alt="html5" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-<img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-<img align="center" alt="html5" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
-<img align="center" alt="html5" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-<img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
-<img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white">
-</div><br/>
+### Contato
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
-
-## Últimos videos:
- - [Curso de Excel](https://www.youtube.com/watch?v=ui6Cbp7j1Bg)<br/>
- - [Oportunidade VIP](https://www.topexcel.com.br/vip/)<br/>
+ <div>
+   <a href = "mailto:cedric.pmi.rmp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/augusto-cedric-python/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div><br>
+ 
+  Obrigado por visitar minha página.
+<br>
