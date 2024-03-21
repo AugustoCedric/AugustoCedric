@@ -60,11 +60,18 @@ Aqui estão alguns dos projetos em que trabalhei:
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustocedric&repo=landing_page_noticias_esportivas&cache_seconds=86400&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustocedric&repo=landing_page_suits&cache_seconds=86400&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustocedric&repo=rec-gospel&cache_seconds=86400&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustocedric&repo=clone_disneyplus&cache_seconds=86400&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustocedric&repo=restaurante-tattoria-dnanona&cache_seconds=86400&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustocedric&repo=site_gamesshop&cache_seconds=86400&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustocedric&repo=projeto_agenda_online&cache_seconds=86400&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustocedric&repo=projeto_calculadora_medias&cache_seconds=86400&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustocedric&repo=ebac_games_redux&cache_seconds=86400&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustocedric&repo=calculadora_vueJs&cache_seconds=86400&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustocedric&repo=data_aniversario&cache_seconds=86400&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustocedric&repo=ebac_tech_talks&cache_seconds=86400&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustocedric&repo=sorteador_grunt&cache_seconds=86400&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustocedric&repo=restaurante-tattoria-dnanona&cache_seconds=86400&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 ### O Que Estou Buscando
 
