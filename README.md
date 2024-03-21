@@ -45,7 +45,7 @@ Meu nome é Augusto Cedric, um entusiasta da tecnologia e atualmente tenho me de
    ### Detalhes
    
    <div display="flex"><br>
-       <img height="200px" src="https://github-readme-stats.vercel.app/api?username=augustocedric&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&title_color=A8A8AB&text_color=A8A8AB&bg_color=0d1117" />
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=augustocedric&show_icons=true&theme=gruvbox&langs_count=10&title_color=A8A8AB&text_color=A8A8AB&bg_color=0d1117" />
        <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustocedric&layout=compact&langs_count=10&title_color=A8A8AB&text_color=A8A8AB&bg_color=0d1117" />
    </div>
 
@@ -58,8 +58,7 @@ Meu nome é Augusto Cedric, um entusiasta da tecnologia e atualmente tenho me de
 
 Aqui estão alguns dos projetos em que trabalhei:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustocedric&repo=github-readme-stats&cache_seconds=86400&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustocedric&repo=landing_page_noticias_esportivas&cache_seconds=86400&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 ### O Que Estou Buscando
 
